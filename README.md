@@ -34,3 +34,7 @@ Acceptance Stories
 
 Scenario 1: Time to schedule!
 ----------------------------------
+Given the families ES in her caseload. She usually calls or text families to schedule homevisits.
+When she calls or text families, she offer them the time that she is available.
+Then families would take it or offer another time,
+if time works for both, the homevisit is scheduled, otherwise, they would need to delay to future tim.
